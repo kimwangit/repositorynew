@@ -2,17 +2,17 @@
     "build_entry_point": "",
     "docsets_to_publish": [
         {
-            "docset_name": "repository_new",
-            "build_output_subfolder": "new/newschema",
+            "docset_name": "new_schematest",
+            "build_output_subfolder": "new/newschematest",
             "locale": "en-us",
             "version": 0
         },
         {
-            "docset_name": "new_fenxu_repo",
-            "build_output_subfolder": "new/fenxu",
+            "docset_name": "new_repotest",
+            "build_output_subfolder": "new/jintest",
             "locale": "zh-cn",
             "version": 0
         }
     ],
-    "notification_subscribers": ["fenxu@microsoft.com"]
+    "notification_subscribers": ["jinbwan@microsoft.com"]
 }
