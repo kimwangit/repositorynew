@@ -1,0 +1,18 @@
+{
+    "build_entry_point": "",
+    "docsets": [
+        {
+            "docset_name": "repository_new",
+            "build_output_subfolder": "new/newschema",
+            "locale": "en-us",
+            "version": 0
+        },
+        {
+            "docset_name": "new_fenxu_repo",
+            "build_output_subfolder": "new/fenxu",
+            "locale": "zh-cn",
+            "version": 0
+        }
+    ],
+    "notification_subscribers": ["fenxu@microsoft.com"]
+}
